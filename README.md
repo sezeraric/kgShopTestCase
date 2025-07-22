@@ -95,7 +95,7 @@ A professional, feature-rich e-commerce mobile application built with React Nati
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/sezeraric/kgShopTestCase.git
 cd kgShopApp
 ```
 
