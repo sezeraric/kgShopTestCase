@@ -2,6 +2,7 @@
 
 A professional, feature-rich e-commerce mobile application built with React Native, showcasing modern mobile development practices and clean architecture.
 
+## 📱 Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c2ab8489-85dc-4ee0-b71c-9cef3352fa1e" width="200"/>
@@ -213,9 +214,7 @@ This project demonstrates professional mobile development practices suitable for
 - **Scalable Architecture**
 - **Type Safety with TypeScript**
 
-## 📱 Screenshots
 
-*[Screenshots would be added here]*
 
 ## 🏆 Why This Project Stands Out
 
